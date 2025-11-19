@@ -16,7 +16,7 @@ Create a binary classification model that predicts:
 
 - **Source**: NYC Airbnb Listings dataset (`airbnbListingsData.csv`)
 - **Size**: ~28,000 listings with 50+ features
-- **Label**: `price_above_100` (derived from `price`)
+- **Label**: `price_above_100` (derived from `price` given in the data table)
 
 ---
 
