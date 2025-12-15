@@ -43,7 +43,7 @@ Features like `description` and `host_about` were excluded due to missingness an
 - Loaded and inspected the dataset
 - Visualized price distribution
 - Checked class balance
-- Cleaned and preprocessed relevant columns
+- Cleaned and preprocessed relevant data columns
 
 ### ✅ Part 4: Project Plan
 - **Data prep**: Drop nulls, one-hot encode categoricals, scale numerics
